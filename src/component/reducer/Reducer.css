@@ -1,7 +1,7 @@
-.app{
+.ReducerMethod{
     display: flex;
     color: purple;
-    align-items: center;
+    /*align-items: center;*/
 }
 .todoCard{
     border: solid 2px purple;
@@ -22,4 +22,5 @@ button{
 .header{
     display: flex;
     align-items: center;
+    justify-content: space-between;
 }
